@@ -1,4 +1,4 @@
-# Pubmed_Author_Ranking
+# The purpose of this PHP script
 List authors ordered by frequency in your search result of Pubmed
 
 # How to use this script?
