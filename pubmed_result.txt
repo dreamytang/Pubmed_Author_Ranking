@@ -1,0 +1,539 @@
+
+PMID- 30038950
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180724
+IS  - 2333-7214 (Print)
+IS  - 2333-7214 (Linking)
+VI  - 4
+DP  - 2018 Jan-Dec
+TI  - Association Between Cancer and Utilization of Traditional Chinese Medicine in
+      U.S. Chinese Women: Findings From the PINE Study.
+PG  - 2333721418778199
+LID - 10.1177/2333721418778199 [doi]
+AB  - Objective: To examine U.S. Chinese older women and the association between their 
+      cancer screening behaviors and self-reported cancers with Traditional Chinese
+      Medicine (TCM) use across sociodemographic characteristics. Method: Through the
+      Population Study of Chinese Elderly in Chicago (PINE), 1,830 Chinese older women 
+      self-reported history of cancer screening, presence of women's cancers, and TCM
+      use according to type. Analyses were performed using multivariate regression
+      models. Results: Chinese older women who underwent breast cancer screening are
+      more likely to use herbal TCM (rate ratio [RR] = 1.15, 95% confidence interval
+      [CI] = [1.03, 1.29]), acupuncture (RR = 1.62, CI = [1.21, 2.15]), massage therapy
+      (RR = 2.05, CI = [1.46, 2.88]), and tai chi (RR = 1.86, CI = [1.28, 2.69]). Those
+      who had cervical cancer screening are more likely to use herbal TCM (RR = 1.32,
+      CI = [1.17, 1.48]), acupuncture (RR = 1.66, CI = [1.27, 2.18]), massage therapy
+      (RR = 1.61, CI = [1.17, 2.21]), tai chi (RR = 1.69, CI = [1.19, 2.40]), and other
+      forms of TCM (RR = 1.36, CI = [1.04, 1.79]). Those with cervical cancer are less 
+      likely to use herbal TCM (RR = 0.42, CI = [0.19, 0.93]). Conclusion: Contrary to 
+      previous studies, our results suggest that U.S. Chinese older women who have
+      engaged in cancer screening use TCM while those with self-reported cancer did not
+      use TCM at a higher rate. This warrants further research on TCM utilization to
+      identify reasons of use in this population and encourage patient-centered care.
+FAU - Dong, XinQi
+AU  - Dong X
+AD  - Rush University, Chicago, IL, USA.
+FAU - Jiang, Jialing
+AU  - Jiang J
+AD  - Rush University, Chicago, IL, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180717
+PL  - United States
+TA  - Gerontol Geriatr Med
+JT  - Gerontology & geriatric medicine
+JID - 101662571
+PMC - PMC6050798
+OTO - NOTNLM
+OT  - U.S. Chinese older women
+OT  - cancer
+OT  - cancer screening
+OT  - traditional Chinese medicine
+COIS- Declaration of Conflicting Interests: The author(s) declared no potential
+      conflicts of interest with respect to the research, authorship, and/or
+      publication of this article.
+EDAT- 2018/07/25 06:00
+MHDA- 2018/07/25 06:01
+CRDT- 2018/07/25 06:00
+PHST- 2016/12/14 00:00 [received]
+PHST- 2017/12/29 00:00 [revised]
+PHST- 2018/02/05 00:00 [accepted]
+PHST- 2018/07/25 06:00 [entrez]
+PHST- 2018/07/25 06:00 [pubmed]
+PHST- 2018/07/25 06:01 [medline]
+AID - 10.1177/2333721418778199 [doi]
+AID - 10.1177_2333721418778199 [pii]
+PST - epublish
+SO  - Gerontol Geriatr Med. 2018 Jul 17;4:2333721418778199. doi:
+      10.1177/2333721418778199. eCollection 2018 Jan-Dec.
+
+PMID- 30038832
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180724
+IS  - 2159-2896 (Print)
+IS  - 2159-2896 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2018 Jun
+TI  - SHORT-TERM EFFECTS OF TRIGGER POINT DRY NEEDLING ON PAIN AND DISABILITY IN
+      SUBJECTS WITH PATELLOFEMORAL PAIN SYNDROME.
+PG  - 462-473
+AB  - Background: Patellofemoral pain syndrome (PFPS) is a prevalent knee disorder. A
+      novel yet increasingly popular treatment for PFPS is trigger point dry needling
+      (DN). Purpose: The purpose of this study was to determine if DN is more effective
+      at reducing pain and disability than a sham treatment in individuals with PFPS.
+      Study design: Randomized trial. Materials/Methods: Sixty military health care
+      beneficiaries (36 males) with a clinical diagnosis of PFPS were recruited and
+      completed the study. Subjects underwent a standardized clinical examination and
+      were randomized into a DN or sham treatment group. DN treatment consisted of
+      insertion of an acupuncture-like needle into six sites in the quadriceps femoris 
+      muscles of the symptomatic lower extremity based on a palpation examination. The 
+      sham grouped received a simulated treatment with a sharp object and needle guide 
+      tube without puncturing the skin. Self-reports of pain, disability, and overall
+      status were collected before treatment, immediately after treatment and at 72
+      hours. Data were analyzed with separate 2x2 repeated measures analysis of
+      variance, with independent variables being Group (DN vs. sham) and Time
+      (pre-treatment vs. immediately post-treatment, and pre-treatment vs. 72 hours).
+      The hypothesis of interest in each case was the Group*Time interaction. The
+      alpha-level was set a priori to .05 using 2-tailed tests. Results: Both groups
+      exhibited a clinically meaningful reduction in pain based on numeric pain rating 
+      scale scores immediately post-treatment and at 72 hours, but there was no
+      statistically significant difference between groups (p = 0.219, 0.310). There was
+      no significant difference between groups for any other outcome measures.
+      Conclusion: These data suggest that DN treatment is not more effective than a
+      sham DN treatment at reducing short-term pain and disability in individuals with 
+      PFPS when used as an isolated treatment approach. Level of Evidence: 2.
+FAU - Sutlive, Thomas G
+AU  - Sutlive TG
+AD  - Army-Baylor University Doctoral Program in Physical Therapy, Fort Sam Houston,
+      TX, USA.
+FAU - Golden, Andrew
+AU  - Golden A
+AD  - Mendoza Physical Therapy Clinic, Fort Bliss, TX, USA.
+FAU - King, Kristin
+AU  - King K
+AD  - Eisenhower Army Medical Center, Fort Gordon, GA, USA.
+FAU - Morris, William B
+AU  - Morris WB
+AD  - Physical Therapy Clinic, Weed Army Community Hospital, Fort Irwin, CA, USA.
+FAU - Morrison, John E
+AU  - Morrison JE
+AD  - Physical Therapy Clinic, Blanchfield Army Community Hospital, Fort Campbell, KY, 
+      USA.
+FAU - Moore, Josef H
+AU  - Moore JH
+AD  - Army-Baylor University Doctoral Program in Physical Therapy, Fort Sam Houston,
+      TX, USA.
+FAU - Koppenhaver, Shane
+AU  - Koppenhaver S
+AD  - Baylor University Doctoral Physical Therapy Program, Waco, TX, USA.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Int J Sports Phys Ther
+JT  - International journal of sports physical therapy
+JID - 101553140
+OTO - NOTNLM
+OT  - Dry needling
+OT  - knee pain
+OT  - patellofemoral pain syndrome
+OT  - rehabilitation
+EDAT- 2018/07/25 06:00
+MHDA- 2018/07/25 06:01
+CRDT- 2018/07/25 06:00
+PHST- 2018/07/25 06:00 [entrez]
+PHST- 2018/07/25 06:00 [pubmed]
+PHST- 2018/07/25 06:01 [medline]
+PST - ppublish
+SO  - Int J Sports Phys Ther. 2018 Jun;13(3):462-473.
+
+PMID- 30037913
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180724
+IS  - 1526-632X (Electronic)
+IS  - 0028-3878 (Linking)
+VI  - 91
+IP  - 4
+DP  - 2018 Jul 24
+TI  - Gold thread acupuncture for hemifacial spasm.
+PG  - 185-186
+LID - 10.1212/WNL.0000000000005868 [doi]
+FAU - Kwon, Seungwon
+AU  - Kwon S
+AD  - From the Department of Cardiology and Neurology, College of Korean Medicine,
+      Kyung Hee University, Seoul, South Korea. kkokkottung@hanmail.net.
+FAU - Kim, Gyeongmuk
+AU  - Kim G
+AD  - From the Department of Cardiology and Neurology, College of Korean Medicine,
+      Kyung Hee University, Seoul, South Korea.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+EDAT- 2018/07/25 06:00
+MHDA- 2018/07/25 06:00
+CRDT- 2018/07/25 06:00
+PHST- 2018/07/25 06:00 [entrez]
+PHST- 2018/07/25 06:00 [pubmed]
+PHST- 2018/07/25 06:00 [medline]
+AID - 91/4/185 [pii]
+AID - 10.1212/WNL.0000000000005868 [doi]
+PST - ppublish
+SO  - Neurology. 2018 Jul 24;91(4):185-186. doi: 10.1212/WNL.0000000000005868.
+
+PMID- 30037276
+OWN - NLM
+STAT- Publisher
+LR  - 20180724
+IS  - 1477-0873 (Electronic)
+IS  - 0269-2155 (Linking)
+DP  - 2018 Jul 1
+TI  - Effectiveness and feasibility of acupuncture for knee osteoarthritis: a pilot
+      randomized controlled trial.
+PG  - 269215518790632
+LID - 10.1177/0269215518790632 [doi]
+AB  - OBJECTIVE: To evaluate the effectiveness of acupuncture for pain relief and
+      function improvement in patients with knee osteoarthritis and to determine the
+      feasibility of an eight-week acupuncture intervention. DESIGN: Pilot randomized
+      controlled trial. SETTING: Three teaching hospitals in China. SUBJECTS: Patients 
+      with knee osteoarthritis (Kellgren grade II or III). INTERVENTIONS: Patients were
+      randomly assigned to an eight-week (three sessions per week) intervention of
+      either traditional Chinese acupuncture or sham acupuncture. MAIN MEASURES: The
+      primary outcome was response rate-the proportion of patients achieving score 36% 
+      decrease in Western Ontario and McMaster Universities Osteoarthritis Index
+      (WOMAC) pain and function at week 8 compared with baseline. Secondary outcomes
+      included pain, function and quality of life. RESULTS: Of 42 patients randomized, 
+      36 (85.7%) completed the study. There was no significant difference in response
+      rate between the traditional Chinese acupuncture and control groups: 61.9% (13 of
+      21) versus 42.9% (9 of 21) achieved score 36% decrease in WOMAC pain and function
+      at week 8 ( P = 0.217). The sum of WOMAC pain and function scores at week 8 was
+      11.6 (9.1) in the traditional Chinese acupuncture group compared with 16.3 (10.9)
+      in the control group ( P = 0.183). There was no significant difference between
+      groups. Three adverse events were recorded and were classified as mild.
+      CONCLUSION: It showed that three sessions per week acupuncture intervention of
+      knee osteoarthritis was feasible and safe. No difference was observed between
+      groups due to small sample size. Larger (sample size 296) randomized controlled
+      trials of this intervention appear justified.
+FAU - Lin, Lu-Lu
+AU  - Lin LL
+AD  - 1 Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional
+      Chinese Medicine, Capital Medical University, Beijing, China.
+AD  - 2 Department of Medicine, School of Medicine, Shandong University of Traditional 
+      Chinese Medicine, Jinan, China.
+FAU - Li, Yong-Ting
+AU  - Li YT
+AD  - 3 Department of Acupuncture and Moxibustion, Dongfang Hospital, Beijing
+      University of Chinese Medicine, Beijing, China.
+FAU - Tu, Jian-Feng
+AU  - Tu JF
+AD  - 1 Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional
+      Chinese Medicine, Capital Medical University, Beijing, China.
+FAU - Yang, Jing-Wen
+AU  - Yang JW
+AD  - 1 Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional
+      Chinese Medicine, Capital Medical University, Beijing, China.
+FAU - Sun, Ning
+AU  - Sun N
+AD  - 1 Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional
+      Chinese Medicine, Capital Medical University, Beijing, China.
+AD  - 2 Department of Medicine, School of Medicine, Shandong University of Traditional 
+      Chinese Medicine, Jinan, China.
+FAU - Zhang, Shuai
+AU  - Zhang S
+AD  - 1 Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional
+      Chinese Medicine, Capital Medical University, Beijing, China.
+FAU - Wang, Tian-Qi
+AU  - Wang TQ
+AD  - 1 Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional
+      Chinese Medicine, Capital Medical University, Beijing, China.
+FAU - Shi, Guang-Xia
+AU  - Shi GX
+AD  - 1 Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional
+      Chinese Medicine, Capital Medical University, Beijing, China.
+FAU - Du, Yi
+AU  - Du Y
+AD  - 4 Department of Traditional Chinese Medicine, Beijing Friendship Hospital,
+      Capital Medical University, Beijing, China.
+FAU - Zhao, Jing-Jie
+AU  - Zhao JJ
+AD  - 4 Department of Traditional Chinese Medicine, Beijing Friendship Hospital,
+      Capital Medical University, Beijing, China.
+FAU - Xiong, Da-Chang
+AU  - Xiong DC
+AD  - 5 Department of Acupuncture and Moxibustion, Beijing Jishuitan Hospital, Peking
+      University, Beijing, China.
+FAU - Hou, Hai-Kun
+AU  - Hou HK
+AD  - 5 Department of Acupuncture and Moxibustion, Beijing Jishuitan Hospital, Peking
+      University, Beijing, China.
+FAU - Liu, Cun-Zhi
+AU  - Liu CZ
+AUID- ORCID: https://orcid.org/0000-0001-8031-5667
+AD  - 3 Department of Acupuncture and Moxibustion, Dongfang Hospital, Beijing
+      University of Chinese Medicine, Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20180701
+PL  - England
+TA  - Clin Rehabil
+JT  - Clinical rehabilitation
+JID - 8802181
+OTO - NOTNLM
+OT  - Knee osteoarthritis
+OT  - randomized controlled trial
+OT  - sham acupuncture
+OT  - traditional Chinese acupuncture
+EDAT- 2018/07/25 06:00
+MHDA- 2018/07/25 06:00
+CRDT- 2018/07/25 06:00
+PHST- 2018/07/25 06:00 [entrez]
+PHST- 2018/07/25 06:00 [pubmed]
+PHST- 2018/07/25 06:00 [medline]
+AID - 10.1177/0269215518790632 [doi]
+PST - aheadofprint
+SO  - Clin Rehabil. 2018 Jul 1:269215518790632. doi: 10.1177/0269215518790632.
+
+PMID- 30036691
+OWN - NLM
+STAT- Publisher
+LR  - 20180723
+IS  - 2093-8152 (Electronic)
+IS  - 2005-2901 (Linking)
+DP  - 2018 Jul 20
+TI  - Transcutaneous Electrical Nerve Stimulation at the Acupuncture Points on Relieve 
+      Pain of Patients under Mechanical Ventilation: A Randomized Controlled Study.
+LID - S2005-2901(17)30235-2 [pii]
+LID - 10.1016/j.jams.2018.06.008 [doi]
+AB  - BACKGROUND AND OBJECTIVE: Electrical stimulation and acupuncture points as
+      non-pharmacological methods, have been the focus of pain reduction in different
+      patients. This study is aimed at determining the effects of transcutaneous
+      electrical nerve stimulation (TENS) on the acupuncture points of pain in patients
+      under mechanical ventilators. MATERIALS AND METHODS: This randomized, double
+      blind clinical trial study was conducted on 50 patients undergoing mechanical
+      ventilation in intensive care units of ImamReza hospital in Kermanshah, Iran in
+      2017. The patients were randomly allocated into intervention and placebo groups. 
+      In the intervention group, TENS electrodes were placed on points Hegu and
+      Zusanli. Pain severity was measured using the CPOT Scale, and the dosages of
+      narcotics and sedation intake were recorded. Data were analyzed using the
+      Statistical Package for the Social Sciences (SPSS) software version 19. RESULTS: 
+      The level of pain in patients decreased in the intervention group in comparison
+      with the sham group and this decline was significant during certain hours
+      (P<0.05). The amount of used analgesic and sedation drugs was less significant in
+      the intervention group compared to the sham group (P=0.01) (P=0.04). CONCLUSION: 
+      The results showed that the use of TENS on Acupuncture Points can decrease the
+      level of pain and opioid consumption in intubated patients under a mechanical
+      ventilator.
+CI  - Copyright (c) 2018. Published by Elsevier B.V.
+FAU - AminiSaman, Javad
+AU  - AminiSaman J
+AD  - Department of Anesthesia, School of Medicine, Kermanshah University of Medical
+      Sciences, Kermanshah, Iran. Electronic address: aminisamanj99@gmail.com.
+FAU - Mohammadi, Saeed
+AU  - Mohammadi S
+AD  - Department of Anesthesia, School of Medicine, Kermanshah University of Medical
+      Sciences, Kermanshah, Iran. Electronic address: dr.saidmohamadi@gmail.com.
+FAU - Karimpour, HasanAli
+AU  - Karimpour H
+AD  - Department of Anesthesia, School of Medicine, Kermanshah University of Medical
+      Sciences, Kermanshah, Iran. Electronic address: hooman.karimpour@yahoo.com.
+FAU - Hemmatpour, Behzad
+AU  - Hemmatpour B
+AD  - Department of Nursing, School of Nursing, Kermanshah University of Medical
+      Sciences, Kermanshah, Iran. Electronic address: behzad_hammatpoor@yahoo.com.
+FAU - Sharifi, Hengameh
+AU  - Sharifi H
+AD  - School of Allied Medical Sciences, Kermanshah University of Medical Sciences,
+      Kermanshah, Iran. Electronic address: H.sharifi73@yahoo.com.
+FAU - Kawyannejad, Rasool
+AU  - Kawyannejad R
+AD  - Department of Anesthesia, School of Allied Medical Sciences, Kermanshah
+      University of Medical Sciences, Kermanshah, Iran. Electronic address:
+      r.kaviannezhad@kums.ac.ir.
+LA  - eng
+PT  - Journal Article
+DEP - 20180720
+PL  - Korea (South)
+TA  - J Acupunct Meridian Stud
+JT  - Journal of acupuncture and meridian studies
+JID - 101490763
+OTO - NOTNLM
+OT  - Acupuncture
+OT  - Hegu
+OT  - Intensive care unit
+OT  - Pain management
+OT  - Zusanli
+EDAT- 2018/07/24 06:00
+MHDA- 2018/07/24 06:00
+CRDT- 2018/07/24 06:00
+PHST- 2017/12/31 00:00 [received]
+PHST- 2018/05/11 00:00 [revised]
+PHST- 2018/06/20 00:00 [accepted]
+PHST- 2018/07/24 06:00 [entrez]
+PHST- 2018/07/24 06:00 [pubmed]
+PHST- 2018/07/24 06:00 [medline]
+AID - S2005-2901(17)30235-2 [pii]
+AID - 10.1016/j.jams.2018.06.008 [doi]
+PST - aheadofprint
+SO  - J Acupunct Meridian Stud. 2018 Jul 20. pii: S2005-2901(17)30235-2. doi:
+      10.1016/j.jams.2018.06.008.
+
+PMID- 30035189
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180723
+IS  - 2333-7214 (Print)
+IS  - 2333-7214 (Linking)
+VI  - 4
+DP  - 2018 Jan-Dec
+TI  - The Association Between Musculoskeletal Symptoms and Traditional Chinese Medicine
+      Use Among Chinese Older Adults in the Greater Chicago Area.
+PG  - 2333721418778179
+LID - 10.1177/2333721418778179 [doi]
+AB  - Older adults disproportionately experience musculoskeletal symptoms, which are
+      associated with morbidity and mortality. Traditional Chinese medicine (TCM) is an
+      important part of Chinese culture and for millennia have been used to maintain
+      health. This article aims to examine the association between musculoskeletal
+      symptoms and different subtypes of TCM usage. Data were collected through the
+      Population Study of Chinese Elderly in Chicago (PINE) study, a community-engaged,
+      epidemiological study of a U.S. Chinese population. Review of systems was used to
+      measure musculoskeletal symptoms. TCM use was measured by using a 5-point scale. 
+      Logistic regression analyses were conducted to control for potential confounding 
+      factors. Of 3,157 Chinese, older adults aged 60 and older, the mean age was 72.8 
+      (SD = 8.3) and 58.9% were female. Older adults with any musculoskeletal symptoms 
+      had greater utilization of overall TCM use (odds ratio [OR] = 2.10, 95%
+      confidence interval [CI] = [1.76, 2.52]), especially massage therapy (OR = 3.41, 
+      95% CI = [2.51, 4.63]), herbal (OR = 2.68, 95% CI = [2.28, 3.14]), and
+      acupuncture (OR = 2.49, 95% CI = [1.87, 3.32]). However, there was no
+      statistically significant association between the presence of musculoskeletal
+      symptoms and Tai-Chi (OR = 1.18, 95% CI = [0.93, 1.50]). This study demonstrated 
+      that musculoskeletal symptoms among Chinese older adults were strongly associated
+      with the use of TCM. Future research is needed to examine the effectiveness of
+      TCM in treating musculoskeletal symptoms.
+FAU - Dong, XinQi
+AU  - Dong X
+AD  - Rush University Medical Center, Chicago, IL, USA.
+FAU - Li, Ke
+AU  - Li K
+AD  - Rush University Medical Center, Chicago, IL, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180717
+PL  - United States
+TA  - Gerontol Geriatr Med
+JT  - Gerontology & geriatric medicine
+JID - 101662571
+PMC - PMC6050610
+OTO - NOTNLM
+OT  - Chinese aging
+OT  - musculoskeletal symptoms
+OT  - older adults
+OT  - traditional Chinese medicine (TCM)
+COIS- Declaration of Conflicting Interests: The author(s) declared no potential
+      conflicts of interest with respect to the research, authorship, and/or
+      publication of this article.
+EDAT- 2018/07/24 06:00
+MHDA- 2018/07/24 06:01
+CRDT- 2018/07/24 06:00
+PHST- 2017/01/18 00:00 [received]
+PHST- 2017/04/29 00:00 [revised]
+PHST- 2017/09/14 00:00 [accepted]
+PHST- 2018/07/24 06:00 [entrez]
+PHST- 2018/07/24 06:00 [pubmed]
+PHST- 2018/07/24 06:01 [medline]
+AID - 10.1177/2333721418778179 [doi]
+AID - 10.1177_2333721418778179 [pii]
+PST - epublish
+SO  - Gerontol Geriatr Med. 2018 Jul 17;4:2333721418778179. doi:
+      10.1177/2333721418778179. eCollection 2018 Jan-Dec.
+
+PMID- 30034368
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180723
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Linking)
+VI  - 9
+DP  - 2018
+TI  - Mechanistic Insights Into the Interaction Between Transcription Factors and
+      Epigenetic Modifications and the Contribution to the Development of Obesity.
+PG  - 370
+LID - 10.3389/fendo.2018.00370 [doi]
+AB  - Objective: The development of obesity is inseparable from genetic and epigenetic 
+      factors, and transcription factors (TFs) play an essential role in these two
+      mechanisms. This review analyzes the interaction of TFs with epigenetic
+      modifications and the epigenetic mechanisms underlying peroxisome
+      proliferator-activated receptor (PPAR)gamma, an important transcription factor,
+      in the development of obesity. Methods: We describe the relationship between TFs 
+      and different epigenetic modifications and illustrate the several mechanisms
+      described. Next, we summarize the epigenetic mechanisms of PPARs, an important
+      class of transcription factors involved in obesity, that induce obesity with
+      different triggering factors. Finally, we discuss the mechanisms of epigenetic
+      modification of PPAR-related ligands in lipid metabolism and propose future
+      avenues of research. Results: TFs participate in epigenetic modifications in
+      different forms, causing changes in gene expression. The interactions between the
+      different epigenetic modifications and PPARs are important biological
+      developments that affect fat tissue differentiation, lipogenesis, and lipid
+      metabolism, thereby inducing or inhibiting the development of obesity. We then
+      highlight the need for more research to understand the role of epigenetic
+      modifications and PPARs. Conclusions: Epigenetic mechanisms involved in the
+      regulation of PPARs may be excellent therapeutic targets for obesity treatment.
+      However, there is a need for a deeper understanding of how PPARs and other
+      obesity-related transcription factors interact with epigenetic modifications.
+FAU - Huang, Qi
+AU  - Huang Q
+AD  - Department of Acupuncture and Moxibustion, Hubei University of Chinese Medicine, 
+      Wuhan, China.
+FAU - Ma, Chaoyang
+AU  - Ma C
+AD  - Department of Rehabilitation, The Central Hospital of Wuhan, Tongji Medical
+      College of Huazhong Science and Technology University, Wuhan, China.
+FAU - Chen, Li
+AU  - Chen L
+AD  - Department of Acupuncture and Moxibustion, Hubei University of Chinese Medicine, 
+      Wuhan, China.
+FAU - Luo, Dan
+AU  - Luo D
+AD  - Department of Traditional Chinese Medicine, Huazhong University of Science and
+      Technology Tongji Medical College, Wuhan, China.
+FAU - Chen, Rui
+AU  - Chen R
+AD  - Department of Integrated TCM and Western Medicine, Union Hospital, Tongji Medical
+      College of Huazhong Science and Technology University, Wuhan, China.
+FAU - Liang, Fengxia
+AU  - Liang F
+AD  - Department of Acupuncture and Moxibustion, Hubei University of Chinese Medicine, 
+      Wuhan, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180706
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+PMC - PMC6043677
+OTO - NOTNLM
+OT  - DNA methylation
+OT  - chromatin remodeling
+OT  - epigenetics
+OT  - histone modifications
+OT  - interaction
+OT  - non-coding RNA
+OT  - obesity
+OT  - transcription factors
+EDAT- 2018/07/24 06:00
+MHDA- 2018/07/24 06:01
+CRDT- 2018/07/24 06:00
+PHST- 2018/02/09 00:00 [received]
+PHST- 2018/06/19 00:00 [accepted]
+PHST- 2018/07/24 06:00 [entrez]
+PHST- 2018/07/24 06:00 [pubmed]
+PHST- 2018/07/24 06:01 [medline]
+AID - 10.3389/fendo.2018.00370 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2018 Jul 6;9:370. doi: 10.3389/fendo.2018.00370.
+      eCollection 2018.
